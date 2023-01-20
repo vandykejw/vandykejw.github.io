@@ -5,6 +5,7 @@ project:
 website:
   title: "vandykejw.github.io"
   navbar:
+    background: light
     right:
       - about.qmd
       - icon: github
